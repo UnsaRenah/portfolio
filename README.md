@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am a motivated beginner data analyst with a solid foundation in SQL, Python, and data visualisation. I am passionate about transforming raw data into actionable insights and thrive on solving problems with a detail-oriented approach.  Committed to continuous improvement, I consistently seek opportunities to expand my skills and drive meaningful, data-informed decisions.
+I am a motivated data analyst with a solid foundation in SQL, Python, and data visualisation. I am passionate about transforming raw data into actionable insights and thrive on solving problems with a detail-oriented approach.  Committed to continuous improvement, I consistently seek opportunities to expand my skills and drive meaningful, data-informed decisions.
 
 *   🌍  I am a based in Newcastle Upon Tyne
 *   ✉️  You can contact me at [unsarg18@gmail.com](mailto:unsarg18@gmail.com)
