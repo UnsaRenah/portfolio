@@ -2,7 +2,7 @@
 
 During Week 3 of the boot camp, I was introduced to SQL and the foundational terminology and key concepts of databases. This module covered both relational and non-relational databases, as well as an overview of various data types. We learned how to write SQL code and how to join different tables together using various join types—self join, right/left join, inner join, cross join, and full join—each serving a distinct purpose in data retrieval.
 
-![Visual 1](Syntax_1.png)
+![Visual 1](Syntax_1.jpg)
 
 ## Group Assignment: Designing a Database for a Small Retail Business
 
@@ -22,10 +22,10 @@ Next, I worked with the “World_DB” dataset, experimenting with different SQL
 
 *   Identified cities with high GDP per capita.
 
-![Visual 1](Syntax_2.png)
+![Visual 1](Syntax_2.jpg)
 
 *   Displayed columns with a row limit (Rows 31-40).
 
-![Visual 2](Syntax_3.png)
+![Visual 2](Syntax_3.jpg)
 
 These exercises deepened my understanding of SQL and its practical applications in answering complex data questions.
