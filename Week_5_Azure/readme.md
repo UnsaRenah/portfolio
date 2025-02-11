@@ -12,6 +12,8 @@ Time was dedicated to understanding the importance of data protection and cybers
 
 To put theory into practice, I completed two labs: one focused on exploring relational data in Azure, and the other on non-relational data.
 
+## Final Project
+
 The final task was a business-oriented project for a company called "Paws and Whiskers." The business, which had been managing sales, customer, and inventory data manually or via spreadsheets, was looking to transition to Microsoft Azure to streamline data storage, analysis, and reporting for more informed decision-making. In my accompanying essay, I provided recommendations covering data laws and regulations, Azure service options, data types and modelling, storage formats and structures in Azure, and other key considerations.
 
 This week not only enhanced my technical skills in Azure and cloud computing but also prepared me to support business transformations through effective data management and secure cloud solutions.
