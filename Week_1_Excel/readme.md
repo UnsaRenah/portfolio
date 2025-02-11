@@ -16,15 +16,15 @@ Working with a retail sales dataset, I practiced calculating averages, filtering
 
 A significant component of the training was data cleaning. I imported multiple CSV files into both Power Query and Excel to edit and clean the data for visualisation purposes.
 
-![Visual 1](Visual_1.jpeg)
+![Visual 1](Visual_1.jpg)
 
 For instance, with a dataset called "Bike Sales," I cleaned and organised the data, created a pivot table, and developed several visualisations including pie charts, column charts, and line graphs.
 
-![Visual 2](Visual_2.jpeg)
+![Visual 2](Visual_2.jpg)
 
 I also integrated slicers for dynamic data filtering. This analysis enabled me to answer critical questions such as, "What country has sales in all markets?". The insights derived from these efforts have the potential to support strategic business growth.
 
-![Visual 3](Visual_3.jpeg)
+![Visual 3](Visual_3.jpg)
 
 
 ## Presentation to Board of Directors
