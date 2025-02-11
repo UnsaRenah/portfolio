@@ -28,7 +28,7 @@ I learned how to save a pandas DataFrame into different formats like CSV, Excel,
 
 ## Exercise 7 – Visualisation
 
-I learned how to visualize data in Python using the matplotlib library, which allows for creating various charts like line graphs, bar charts, and scatter plots.
+I learned how to visualise data in Python using the matplotlib library, which allows for creating various charts like line graphs, bar charts, and scatter plots.
 
 ![Visual_3](pic_3.jpg)
 
