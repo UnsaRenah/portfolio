@@ -1,6 +1,6 @@
 # Week 5 – Azure
 
-During Week 5, I immersed myself in Microsoft Azure and key cloud computing concepts, gaining a strong foundation in Azure data fundamentals—essential knowledge for the DP900 exam. I began by exploring the critical role of cloud computing in modern business, contrasting it with traditional on-premises solutions. I compared popular cloud platforms, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, analysing the pros and cons of each.
+During Week 5, I immersed myself in Microsoft Azure and key cloud computing concepts, gaining a strong foundation in Azure data fundamentals essential knowledge for the DP900 exam. I began by exploring the critical role of cloud computing in modern business, contrasting it with traditional on-premises solutions. I compared popular cloud platforms, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, analysing the pros and cons of each.
 
 I also delved into various cloud service models:
 
