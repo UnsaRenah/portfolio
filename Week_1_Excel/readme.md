@@ -8,7 +8,7 @@ During the first week of my Excel training, I focused on three key areas:
 
 ## Excel Functions
 
-I learned how to aggregate functions to derive new insights and generate additional data columns from existing datasets. For example, using a student grades dataset, I created two new columns—one for the average grade and another for the highest score—providing a deeper analysis of each student's performance.
+I learned how to aggregate functions to derive new insights and generate additional data columns from existing datasets. For example, using a student grades dataset, I created two new columns one for the average grade and another for the highest score providing a deeper analysis of each student's performance.
 
 Working with a retail sales dataset, I practiced calculating averages, filtering data, and identifying maximum and minimum values. This allowed me to explore and apply a variety of Excel functions and conditional formatting techniques effectively.
 
