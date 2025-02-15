@@ -11,6 +11,6 @@ The cleaned data was then imported into Power BI, where I created several key vi
 *   **Debt-to-Income Ratio by Risk Rating (Clustered Bar Chart):** Assesses debt-to-income ratios against risk levels.
 *   **Percentage of Defaults by Employment Status (Pie/Bar Chart):** Identifies default trends based on employment status.
 
-![Visual 1](Dashboard_1.png)
+![Visual 1](Dashboard.png)
 
 This project enhanced my skills in data cleaning, financial risk analysis, and creating insightful dashboards for data-driven decision-making.
